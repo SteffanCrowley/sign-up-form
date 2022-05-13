@@ -115,6 +115,7 @@ input:focus {
   margin-bottom: 15px;
   padding: 5px;
   border-radius: 5px;
+  background-color: yellow;
 }
 
 input:invalid {
@@ -129,6 +130,4 @@ input:invalid {
   font-family: customFontBold;
   font-size: 0.7rem;
   color: rgb(255, 69, 100);
-  position: absolute;
-  top: 30px;
 }
